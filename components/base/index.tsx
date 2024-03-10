@@ -1,4 +1,5 @@
-import "./base.css"
+// import "./base.css"
+import "./track-column.css"
 const Base = () => {
   return (
     <div>
